@@ -922,6 +922,6 @@ img {
 }
 
 .checkbox-confirm:focus + .check-box-icon{
-  outline: 1px solid var(--accent-color);*/
+  outline: 1px solid var(--accent-color);
   border-color: var(--accent-color);
 }
